@@ -93,7 +93,7 @@ INTELLIGENCE-QUERY-ENGINE/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/insighta-profiles.git
+git clone https://github.com/UkannaRaymond/intelligence-Query-Engine.git
 cd intelligence-query-engine
 npm install
 ```
